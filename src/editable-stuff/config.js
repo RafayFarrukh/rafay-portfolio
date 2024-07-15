@@ -50,7 +50,7 @@ const about = {
   imageLink: require('../editable-stuff/profile.png'),
   imageSize: 375,
   message:
-    'My name is Rafay Farrukh. I graduated in 2023 from Comsats University Islamabad with a degree in Computer Science. I am an experienced JavaScript developer with over one year of experience in web development. I am skilled in cross-technologies and data management, and proficient in ReactJS, Node.js, Express.js, MySQL, MongoDB, Next.js, and React Native. I stay up-to-date with the latest web development trends and maintain a positive attitude. In my free time, I enjoy working on open source projects.',
+    'My name is Rafay Farrukh. I graduated in 2023 from Comsats University Islamabad with a degree in Computer Science. I am an experienced JavaScript developer with over two years of experience in web development. I am skilled in cross-technologies and data management, and proficient in ReactJS, Node.js, Express.js, MySQL, MongoDB, Next.js, and React Native. I stay up-to-date with the latest web development trends and maintain a positive attitude. In my free time, I enjoy working on open source projects.',
   resume:
     'https://docs.google.com/document/d/1GmBPuFDMEPS8cWumtQU0JpnBvvUEKxK3966IrMn64CA',
 };
